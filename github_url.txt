@@ -1,0 +1,5 @@
+https://github.com/SAGE24/ProyectoNextu_Angular
+
+Usuario de ingreso
+mail => prueba@mail.com
+pass => 123
